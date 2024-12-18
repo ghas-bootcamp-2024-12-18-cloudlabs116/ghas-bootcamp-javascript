@@ -1,4 +1,4 @@
-var secret = "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"
+var secret = "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asdf"
 var chownr = require('chownr')
 var tar = require('tar-stream')
 var pump = require('pump')
